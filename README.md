@@ -1,2 +1,5 @@
 # congress_voting_summary
-An implementation of SQLite and Neo4j database to summarize congressional voting activity
+This repo as an implementation of a SQLite as well as Neo4j database. The databases are comprised of congressional votes from various ProPublica API's
+
+TO-DO:
+Neo4j code
